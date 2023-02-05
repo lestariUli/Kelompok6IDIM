@@ -20,9 +20,9 @@
           <table class="table table-hover">
                 <thead>
                     <tr>
-                        <th scope="col">NamaSuplier</th>
+                        <th scope="col">Nama Pelanggan</th>
                         <th scope="col">Alamat</th>
-                        <th scope="col">Nomor Handphone Supplier</th>
+                        <th scope="col">Nomor Handphone</th>
                         <th scope="col">ACTION</th>
                     </tr>
                 </thead>
